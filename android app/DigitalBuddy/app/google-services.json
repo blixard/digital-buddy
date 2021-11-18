@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086036853958",
+    "project_id": "digital-buddy-aa463",
+    "storage_bucket": "digital-buddy-aa463.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086036853958:android:56b031a94b6df913dcc3c7",
+        "android_client_info": {
+          "package_name": "com.example.digitalbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086036853958-uctobqubfvcru6lbtimumoppjbde51q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm1dIV4tbNEC3PY-7eu5CXme88jRU5-SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086036853958-uctobqubfvcru6lbtimumoppjbde51q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
